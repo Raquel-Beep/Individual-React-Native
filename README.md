@@ -20,7 +20,7 @@ Para o cumprimento dos pré-requisitos da atividade, abaixo está o bloco compar
 
 | Instagram Original | InstaFake |
 |:---:|:---:|
-| ![Instagram Bate-papo](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instagram-batepapo.jpeg)) | ![InstaFake Bate-papo](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instafake-batepapo.jpeg) |
+| ![Instagram Bate-papo](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instagram-batepapo.jpeg) | ![InstaFake Bate-papo](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instafake-batepapo.jpeg) |
 
 > 💡 *Nota para avaliação:* Conforme exigido pelos critérios do projeto, as imagens utilizadas como base de comparação foram incluídas na raiz do repositório junto a este arquivo de documentação.
 
