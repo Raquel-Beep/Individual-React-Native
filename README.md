@@ -14,7 +14,7 @@ Para o cumprimento dos pré-requisitos da atividade, abaixo está o bloco compar
 
 | Instagram Original | InstaFake |
 |:---:|:---:|
-| ![Instagram Home]([./fotoreadme/instagram-home.jpeg](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instagram-home.jpeg)) | ![InstaFake Home]([./fotoreadme/instafake-home.jpeg](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instafake-home.jpeg)) |
+| ![Instagram Home](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instagram-home.jpeg) | ![InstaFake Home]([./fotoreadme/instafake-home.jpeg](https://github.com/Raquel-Beep/Individual-React-Native/blob/main/InstaFake/fotoreadme/instafake-home.jpeg)) |
 
 ### 💬 Lista de Bate-papo / DMs
 
