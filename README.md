@@ -1,3 +1,6 @@
+## Teste
+
+![Teste](instagram-home.jpeg)
 # 📸 InstaFake - O Ataque dos Clones
 
 Este projeto foi desenvolvido como parte da **Aventura 1: O Ataque dos Clones**, com o objetivo de construir um clone funcional de interfaces famosas do Instagram utilizando tecnologias modernas de desenvolvimento mobile.
