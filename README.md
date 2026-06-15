@@ -10,10 +10,17 @@ O aplicativo replica a experiência do feed principal, a lista de conversas de m
 
 Para o cumprimento dos pré-requisitos da atividade, abaixo está o bloco comparativo contendo o mapeamento das telas originais de referência lado a lado com os clones desenvolvidos no aplicativo:
 
-| Tela | Instagram Original (Referência) | InstaFake (Clone Desenvolvido) |
-| :--- | :---: | :---: |
-| **Página Inicial / Feed** | `instagram-home.jpeg` | `instafake-home.jpeg` |
-| **Lista de Bate-papo / DMs** | `instagram-batepapo.jpeg` | `instafake-batepapo.jpeg` |
+### Página Inicial / Feed
+
+| Instagram Original | InstaFake |
+|:---:|:---:|
+| ![](instagram-home.jpeg) | ![](instafake-home.jpeg) |
+
+### Lista de Bate-papo / DMs
+
+| Instagram Original | InstaFake |
+|:---:|:---:|
+| ![](instagram-batepapo.jpeg) | ![](instafake-batepapo.jpeg) |
 
 > 💡 *Nota para avaliação:* Conforme exigido pelos critérios do projeto, as imagens utilizadas como base de comparação foram incluídas na raiz do repositório junto a este arquivo de documentação.
 
